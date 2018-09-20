@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>CUBRID News</title>
+    <link>http://www.cubrid.org/blog</link>
+    <description>CUBRID.org</description>
+    <lastBuildDate>Wed, 7 Aug 2013 00:00:00 +0900</lastBuildDate>
+    <!-- Announcement -->
+    <item>
+      <title><![CDATA[CUBRID 9.3.0 has been released with new features, performance improvements, error fixes and more]]></title>
+      <link><![CDATA[http://www.cubrid.org/blog/cubrid-life/cubrid-9-3-0-with-new-features-performance-improvements-and-more/]]></link>
+      <pubDate><![CDATA[Tue, 03 Jun 2014 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Announcement]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[All new CUBRID 9.2.0 with new SQL support, performance improvements, and more]]></title>
+      <link><![CDATA[http://www.cubrid.org/blog/cubrid-life/all-new-cubrid-9-2-0-with-aix-support-performance-improvements-and-more/]]></link>
+      <pubDate><![CDATA[Tue, 08 Oct 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Announcement]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[New CUBRID 8.4.4 with SQL Profiling and Stability Improvements]]></title>
+      <link><![CDATA[http://www.cubrid.org/blog/cubrid-life/new-cubrid-8-4-4-with-sql-profiling-and-stability-improvements/]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Announcement]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[2013, May, Impressions after giving talks at RIT++ and Percona conferences]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_tools/entry/new-features-of-cm-2013-05_kr]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Announcement]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <!-- Release Note -->
+    <item>
+      <title><![CDATA[CM/CQB 2014-03 Version Release!]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_tools/entry/cubrid-manager-release-note]]></link>
+      <pubDate><![CDATA[Tue, 1 April 2014 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[ReleaseNews]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+	<item>
+      <title><![CDATA[CM/CQB 2014-01 Version Release!]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_tools/entry/cubrid-manager-release-note]]></link>
+      <pubDate><![CDATA[Mon, 1 Jan 2014 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[ReleaseNews]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID Migration Toolkit 2013-08 Version Release!]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_tools/entry/new-features-of-cmt-2013-08]]></link>
+      <pubDate><![CDATA[Wed, 7 Aug 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[ReleaseNews]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID Manager, Query Browser 2013-05 Version Release!]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_tools/entry/cubrid-manager-release-note]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[ReleaseNews]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID ODBC Driver Installer and 9.1.0.p1 Release]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_apis/entry/cubrid-odbc-driver-release-notes]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[ReleaseNews]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID OLEDB Driver Installer and 9.1.0.p1 Release]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_apis/entry/cubrid-oledb-driver-release-notes]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[ReleaseNews]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <!-- MajorFeatures -->
+    <item>
+      <title><![CDATA[How to execute SQLs in CM/CQB]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_tools/entry/cubrid-manager-query-execution]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[MajorFeatures]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[Run a single SQL in the Query Editor, Run multiple SQLs in the Query Editor, Run multiple SQLs Fast in a Run SQL File menu, Run Multiple SQLs over Multiple Databases in the Query Editor.]]></description>
+    </item>
+    <!-- HowStart -->
+    <item>
+      <title><![CDATA[Installing CUBRID on Windows]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_tutorials/entry/installing-cubrid-on-windows]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[HowStart]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <!-- UsefulLinks -->
+    <item>
+      <title><![CDATA[CUBRID Download]]></title>
+      <link><![CDATA[http://www.cubrid.org/downloads]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[UsefulLinks]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID Manuals]]></title>
+      <link><![CDATA[http://www.cubrid.org/manual]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[UsefulLinks]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID Source Code]]></title>
+      <link><![CDATA[http://svn.cubrid.org/websvn/]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[UsefulLinks]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <!-- Tutorials -->
+    <item>
+      <title><![CDATA[How to install CUBRID on Windows]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_tutorials/entry/installing-cubrid-on-windows]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Tutorials]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[How to install CUBRID on Linux]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_tutorials/entry/installing-cubrid-on-linux-using-shell-and-rpm]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Tutorials]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[How to use Django with CUBRID Python Driver]]></title>
+      <link><![CDATA[http://www.cubrid.org/wiki_apis/entry/how-to-use-django-with-cubrid]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Tutorials]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <!-- TechTrends -->
+    <item>
+      <title><![CDATA[Our Experience of Creating Large Scale Log Search System Using ElasticSearch]]></title>
+      <link><![CDATA[http://www.cubrid.org/blog/dev-platform/our-experience-creating-large-scale-log-search-system-using-elasticsearch/]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[TechTrends]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[At NHN we have a service called NELO (NHN Error Log System) to manage and search logs pushed to the system by various applications and other Web services. The search performance and functionality of NELO2, the second generation of the system, have significantly been improved through ElasticSearch. Today I would like to share our experience at NHN in deploying ElasticSearch in Log Search Systems.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The Principles of Java Application Performance Tuning]]></title>
+      <link><![CDATA[http://www.cubrid.org/blog/dev-platform/the-principles-of-java-application-performance-tuning/]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[TechTrends]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[This is the fifth article in the series of "Become a Java GC Expert". In the first issue Understanding Java Garbage Collection we have learned about the processes for different GC algorithms, about how GC works, what Young and Old Generation is, what you should know about the 5 types of GC in the new JDK 7, and what the performance implications are for each of these GC types.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Understanding Encryption and Security through Java Cryptography Architecture]]></title>
+      <link><![CDATA[http://www.cubrid.org/blog/dev-platform/understanding-encryption-security-through-java-cryptography-architecture/]]></link>
+      <pubDate><![CDATA[Fri, 08 Mar 2013 14:18:51 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[TechTrends]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[This article is a summary of JCA architecture that I learned while producing the nClavis (Symmetric-key cryptography) at NHN. Of course, I do not understand all of JCA yet. However, I was so happy to understand JCA at this level that I decided to write this article to share my experience with you.]]></description>
+    </item>
+  </channel>
+</rss>
