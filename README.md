@@ -1,2 +1,2 @@
 # cubrid.github.io
-This repo will be used to keep XML files for CM/CMT
+This repo contains XML files for CM/CMT
